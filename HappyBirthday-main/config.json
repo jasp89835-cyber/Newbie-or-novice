@@ -1,0 +1,28 @@
+{
+  "demoMode": false,
+  "name": "何慈小公主",
+  "birthdayTime": "2026-1-27 00:00:00",
+  "userImagePath": "img/baby.jpg",
+  "ifHaveGift": true,
+  "giftImagePath": "img/gift.png",
+  "homepageText1": "This website is developed by JTX for HC specifically.",
+  "homepageText2": "And it aims to celebrate HC's 26th birthday.",
+  "blessText": {
+    "websiteTitle": "生日祝福",
+    "text1": "你好呀，宝宝",
+    "text2": "很幸运能在最今年遇见你",
+    "text3": "已经过了12点啦，你的生日到喽！！！",
+    "text4": "恭喜，可爱的你又长大一岁啦🎉✨",
+    "text5": "非常非常非常诚挚地祝福你：生日快乐！！！希望你能一直保持可爱",
+    "text6": "在今天这个特别的日子里",
+    "text7": "我决定做一些",
+    "text8": "特殊的事情，来为你庆祝！",
+    "text9": "因为———",
+    "text10": "你，对我来说是特别的人",
+    "wishHead": "祝愿何慈：",
+    "wishText": "心弦无绊，所求皆所愿。岁岁年年，充满晴朗，美好皆如愿。",
+    "giftText": "我为你准备了一份小小的惊喜！ヾ(≧ ▽ ≦)ゝ",
+    "giftButtonText": "点击这里查看"
+  },
+  "githubUrl": "https://github.com/2784906330zsx/HappyBirthday"
+}
